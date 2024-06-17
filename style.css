@@ -53,6 +53,13 @@ body{
 }
 
 .input-btn .calculate-btn:active{
-  opacity: 80%;
+  opacity: 70%;
 }
 
+.result{
+  /* background-color: aliceblue; */
+  margin-top: 20px;
+  padding: 5px 10px;
+  /* display: inline-block; */
+  color: white;
+}
